@@ -7,5 +7,6 @@ public class temp {
         System.out.println("It's Michael here!");
         System.out.println("It's Michael here again!");
         System.out.println(java.time.LocalTime.now());
+        System.out.println("This is a test");
     }
 }
